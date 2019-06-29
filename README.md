@@ -1,7 +1,7 @@
 # HammingCodeChat
 
 
-<h1>Hamming Code Chat Client/Server<h1>
+<h1>Hamming Code Chat Client/Server</h1>
   
   
   Hamming code: The app detects error in a message and Correct it and then display the correct message. It is also implemented in a Client/Server Chat where the server messed a bit and the hamming code resolve the error
